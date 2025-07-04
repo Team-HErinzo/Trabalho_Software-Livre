@@ -2,7 +2,7 @@
 
 **Disciplina:** Sistemas de Software Livre  
 **Curso:** Bacharelado em Ciência da Computação  
-**Aluno:** Eric Andrew  
+**Aluno:** Eric Andrew Bertolazzi Rodrigues da Rosa
 **Repositório:** https://github.com/Team-HErinzo/Trabalho_Software-Livre
 
 ---
@@ -29,3 +29,5 @@ make primo  # Compila só o primo.cpp
 make vetor  # Compila só o vetor.cpp
 make matriz # Compila só o matriz.cpp
 make clean  # Remove os arquivos compilados
+
+**## Problemas Enfrentados no Trabalho**
