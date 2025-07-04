@@ -4,7 +4,7 @@ Este repositório contém o desenvolvimento do trabalho da disciplina **Sistemas
 
 ## 👨‍💻 Eric Andrew
 
-- **Aluno:** Eric Andrew (Team HErinzo)  
+- **Aluno:** Eric Andrew Bertolazzi Rodrigues da Rosa (Team HErinzo)  
 - **Disciplina:** Sistemas de Software Livre  
 
 ---
