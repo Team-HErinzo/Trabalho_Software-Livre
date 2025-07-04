@@ -97,7 +97,7 @@ Cada parte do trabalho foi desenvolvida em branches separadas:
 - `makefile`: inclusão do Makefile
 - `scripts`: geração de testes
 
-Depois de concluir cada parte, criei a branch chamada `main`, utilizando o git push -u origin main.
+Depois de concluir cada parte, criei a branch chamada `main`, usando `git push -u origin main`.
 
 ---
 
@@ -115,16 +115,19 @@ Depois de concluir cada parte, criei a branch chamada `main`, utilizando o git p
 
 ---
 
-## ❗Dificuldades Encontradas
+## ❗ Dificuldades Encontradas
+
 Durante o desenvolvimento do trabalho, enfrentei alguns desafios importantes:
 
-Organização com Git: Tive que refazer o trabalho devido ao uso incorreto de commits e branches. Aprendi a importância de manter cada funcionalidade em uma branch separada e fazer commits claros e pequenos.
+- **Organização com Git:** Tive que **refazer o trabalho** devido ao uso incorreto de *commits* e *branches*. Aprendi a importância de manter cada funcionalidade em uma branch separada e fazer *commits* claros e pequenos.
 
-Execução dos scripts .sh: No início, não compreendia como executar corretamente os arquivos Bash, especialmente como dar permissão de execução com chmod +x.
+- **Execução dos scripts `.sh`:** No início, **não compreendia como executar corretamente os arquivos Bash**, especialmente como dar permissão de execução com `chmod +x`.
 
-Uso do Makefile: Tive dificuldades para compilar usando o make, pois precisei instalar dependências adicionais no Ubuntu (como o g++ e make).
+- **Uso do Makefile:** Tive dificuldades para **compilar usando o `make`**, pois precisei instalar dependências adicionais no Ubuntu (como o `g++` e o `make`).
 
-Criação do README.md: Montar um README.md explicativo e bem estruturado foi desafiador. Pesquisei bastante sobre a sintaxe Markdown para garantir que ficasse informativo e visualmente agradável.
+- **Criação do `README.md`:** Montar um `README.md` explicativo e bem estruturado foi desafiador. Pesquisei bastante sobre a sintaxe Markdown para garantir que ficasse informativo e visualmente agradável.
+
+---
 
 ## 📎 Link de entrega
 
@@ -135,4 +138,5 @@ O repositório final está aqui
 
 ## 📃 Licença
 
-Este trabalho é de uso acadêmico e educacional.
+Este trabalho é de uso acadêmico e educacional.  
+🔗 https://github.com/Team-HErinzo/Trabalho_Software-Livre
