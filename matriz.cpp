@@ -30,6 +30,13 @@ int main(){
                 matriz_r[i][j] = matriz1[i][j] + matriz2[i][j];
     }
 
+    // Subtração
+    else if(operacao == 's'){
+        for(int i = 0; i < n; i++)
+            for(int j = 0; j < n; j++)
+                matriz_r[i][j] = matriz1[i][j] - matriz2[i][j];
+    }
+
     // Impressão da matriz resultado
     for (auto& linha : matriz_r) {
         for (int x : linha)
