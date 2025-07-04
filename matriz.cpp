@@ -29,12 +29,18 @@ int main(){
             for(int j = 0; j < n; j++)
                 matriz_r[i][j] = matriz1[i][j] + matriz2[i][j];
     }
-
     // Subtração
     else if(operacao == 's'){
         for(int i = 0; i < n; i++)
             for(int j = 0; j < n; j++)
                 matriz_r[i][j] = matriz1[i][j] - matriz2[i][j];
+    }
+    // Multiplicação
+    else if(operacao == 'm'){
+        for(int i = 0; i < n; i++)
+            for(int j = 0; j < n; j++)
+                for(int k = 0; k < n; k++)
+                    matriz_r[i][j] += matriz1[i][k] * matriz2[k][j];
     }
 
     // Impressão da matriz resultado
