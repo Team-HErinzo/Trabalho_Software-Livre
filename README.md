@@ -97,7 +97,7 @@ Cada parte do trabalho foi desenvolvida em branches separadas:
 - `makefile`: inclusão do Makefile
 - `scripts`: geração de testes
 
-Depois de concluir cada parte, fiz merge na `main`.
+Depois de concluir cada parte, criei a branch chamada `main`, utilizando o git push -u origin main.
 
 ---
 
@@ -106,14 +106,25 @@ Depois de concluir cada parte, fiz merge na `main`.
 1. Criei o repositório público no GitHub  
 2. Clonei localmente usando WSL Ubuntu  
 3. Desenvolvi cada funcionalidade em sua branch  
-4. Fiz commits claros e enviados via `git push`  
+4. Fiz commits claros e enviados via `git commit`  
 5. Criei o Makefile e scripts de teste  
 6. Testei todos localmente (`make`, redirecionamento de entrada, scripts)  
-7. Fiz merge de cada branch na `main`  
+7. Criei a branch `main`  
 8. Atualizei o `README.md` para explicar tudo  
 9. Criei `entrega.txt` com o link do repositório
 
 ---
+
+## ❗Dificuldades Encontradas
+Durante o desenvolvimento do trabalho, enfrentei alguns desafios importantes:
+
+Organização com Git: Tive que refazer o trabalho devido ao uso incorreto de commits e branches. Aprendi a importância de manter cada funcionalidade em uma branch separada e fazer commits claros e pequenos.
+
+Execução dos scripts .sh: No início, não compreendia como executar corretamente os arquivos Bash, especialmente como dar permissão de execução com chmod +x.
+
+Uso do Makefile: Tive dificuldades para compilar usando o make, pois precisei instalar dependências adicionais no Ubuntu (como o g++ e make).
+
+Criação do README.md: Montar um README.md explicativo e bem estruturado foi desafiador. Pesquisei bastante sobre a sintaxe Markdown para garantir que ficasse informativo e visualmente agradável.
 
 ## 📎 Link de entrega
 
